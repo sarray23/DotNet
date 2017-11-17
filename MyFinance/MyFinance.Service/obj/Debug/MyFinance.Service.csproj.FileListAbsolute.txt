@@ -1,0 +1,10 @@
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.dll.config
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.pdb
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.SqlServer.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.xml
+F:\4BI\DotNet\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.SqlServer.xml
+F:\4BI\DotNet\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.csprojResolveAssemblyReference.cache
+F:\4BI\DotNet\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.pdb

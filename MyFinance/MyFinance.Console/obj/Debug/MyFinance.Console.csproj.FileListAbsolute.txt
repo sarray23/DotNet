@@ -1,0 +1,16 @@
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.pdb
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.dll
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.pdb
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.pdb
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.pdb
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.xml
+F:\4BI\DotNet\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.xml
+F:\4BI\DotNet\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.csprojResolveAssemblyReference.cache
+F:\4BI\DotNet\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.exe
+F:\4BI\DotNet\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.pdb
